@@ -4,7 +4,7 @@ This is a Telegram bot that uses [aria2](https://github.com/aria2/aria2) to down
 
 # Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/template?=https://github.com/ImJanindu/gleech-bot)
 
 ### Limitations
 
